@@ -1,4 +1,4 @@
-# Visualization
+# Visualization-PowerBI
 In this project, a static sales report has been transformed into a Dynamic Data visualization.
 Data visualization gives us a clear idea of what the information means by giving it visual context through maps or graphs. This makes the data more natural for the human mind to comprehend and therefore makes it easier to identify trends, patterns, and outliers within large data sets
 
